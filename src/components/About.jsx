@@ -17,7 +17,7 @@ function About() {
 
  
         <a
-          href="https://wa.me/+24969063700?text=Hello%20Esra,%20I%20would%20like%20to%20connect%20with%20you!"
+          href="https://wa.me/24969063700?text=Hello%20Esra,%20I%20would%20like%20to%20connect%20with%20you!"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-pink-700 text-white font-medium py-3 px-6 rounded-full shadow-md hover:bg-pink-800 hover:scale-105 transition-transform"
